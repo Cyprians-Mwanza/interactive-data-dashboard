@@ -1,4 +1,4 @@
-<img width="959" alt="Linegrapgh" src="https://github.com/user-attachments/assets/62fb0bdd-32c0-4b7c-81a2-a5d93dfd7800">**Interactive Data Dashboard**
+**Interactive Data Dashboard**
 This project is an interactive data visualization dashboard built using Python's Panel library. It allows users to explore a dataset and generate various visualizations, such as histograms and line graphs, with interactive controls like dropdowns, sliders, and checkboxes.
 
 **Features**
@@ -23,9 +23,6 @@ Multi-select widget to choose multiple columns.
 **Correlation Matrix**
 <img width="959" alt="Correlation Matrix" src="https://github.com/user-attachments/assets/ca25a7b4-7654-40f5-9629-943b47f2b9a7">
 
-
-
-
 Requirements
 The code requires the following Python libraries:
 
@@ -38,8 +35,7 @@ pip install pandas panel matplotlib numpy
 **Running the Dashboard**
 Clone the repository and navigate to the project directory:
 
-git clone https://github.com/your-username/interactive-data-dashboard.git
-cd interactive-data-dashboard
+git clone https://github.com/Cyprians-Mwanza/interactive-data-dashboard.git
 Ensure you have the required packages installed (as listed in the requirements section).
 
 **Run the dashboard using:**
